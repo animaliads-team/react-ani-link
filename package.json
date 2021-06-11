@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@animaliads/ani-link": "^1.0.0-dev.5",
+    "@animaliads/ani-link": "dev",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
