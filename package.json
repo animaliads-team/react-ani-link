@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "@animaliads/ani-link": "dev",
+    "@animaliads/animalia-brand": "dev",
+    "@animaliads/css-tokens": "dev",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
